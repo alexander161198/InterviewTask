@@ -1,4 +1,4 @@
---Пусть есть 3 таблицы: product(id, name, ...), category(id, name, ...), product_category(id, product_id, category_id)
+--РџСѓСЃС‚СЊ РµСЃС‚СЊ 3 С‚Р°Р±Р»РёС†С‹: product(id, name, ...), category(id, name, ...), product_category(id, product_id, category_id)
 
 SELECT p."name", c."name" 
 FROM product p
