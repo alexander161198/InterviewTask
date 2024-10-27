@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewShape", "InterviewShape\InterviewShape.csproj", "{18AA3225-930E-4C54-9E7E-3E84A75BF768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShape", "TestShape\TestShape.csproj", "{6D8AAE95-C362-4D53-A139-1D532F39BC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AA3225-930E-4C54-9E7E-3E84A75BF768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AA3225-930E-4C54-9E7E-3E84A75BF768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AA3225-930E-4C54-9E7E-3E84A75BF768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AA3225-930E-4C54-9E7E-3E84A75BF768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8AAE95-C362-4D53-A139-1D532F39BC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8AAE95-C362-4D53-A139-1D532F39BC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8AAE95-C362-4D53-A139-1D532F39BC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8AAE95-C362-4D53-A139-1D532F39BC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4DFA59B-2BCF-4C80-8928-B03AD3B2B99D}
+	EndGlobalSection
+EndGlobal
